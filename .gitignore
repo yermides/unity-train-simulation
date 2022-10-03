@@ -9,6 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/Materials/
+/[Aa]ssets/Models/
+/[Aa]ssets/Prefabs/
+/[Aa]ssets/Textures/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -25,6 +29,7 @@
 
 # Visual Studio cache directory
 .vs/
+.idea/
 
 # Gradle cache directory
 .gradle/
